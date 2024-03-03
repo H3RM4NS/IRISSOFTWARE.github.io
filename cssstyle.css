@@ -1,0 +1,9 @@
+/* Aquí puedes agregar tus estilos CSS para personalizar la apariencia de tu aplicación */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
